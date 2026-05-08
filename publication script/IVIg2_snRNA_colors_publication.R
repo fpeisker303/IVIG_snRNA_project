@@ -1,3 +1,5 @@
+## Copyright (c) 2026 Fabian Peisker et al.
+
 #IVIG project
 #hand picked colors for the project
 library(RColorBrewer)
