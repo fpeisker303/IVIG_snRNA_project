@@ -1,3 +1,5 @@
+## Copyright (c) 2026 Fabian Peisker et al.
+
 #IVIG project
 #initial assessment of data QC and subsequent filtering for high quality nuclei transcriptoms
 
