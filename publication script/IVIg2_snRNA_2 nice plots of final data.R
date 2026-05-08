@@ -1,3 +1,5 @@
+## Copyright (c) 2026 Fabian Peisker et al.
+
 #IVIG project
 #plots based on the final filtered dataset (f5)
 
