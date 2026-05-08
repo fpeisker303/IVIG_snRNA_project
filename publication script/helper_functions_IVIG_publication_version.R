@@ -1,3 +1,5 @@
+## Copyright (c) 2026 Fabian Peisker et al.
+
 #helper functions used in the IVIG project
 library(Seurat)
 library(cowplot)
