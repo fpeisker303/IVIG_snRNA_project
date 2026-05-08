@@ -1,3 +1,5 @@
+## Copyright (c) 2026 Fabian Peisker et al.
+
 #requires R4.3 or higher for dreamlet
 #IVIg DCM snRNA project
 #perform DGEA based on pseudobulk the data
